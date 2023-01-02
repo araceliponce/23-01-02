@@ -1,0 +1,16 @@
+b,
+p {
+  font-size: 200%;
+  min-width: 30ch;
+  flex: 1;
+}
+
+.flex {
+  display: flex;
+  gap: 2rem;
+  flex-flow: row wrap;
+}
+
+figure {
+  margin-inline: auto;
+}
